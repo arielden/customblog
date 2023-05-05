@@ -28,6 +28,10 @@ python -m django --version
 ```
 django-admin startproject customblog
 ```
+- generate the path for the "blog" app
+```
+python manage.py startapp blog
+```
 <!-- Relevant information about the project setup -->
 
 
